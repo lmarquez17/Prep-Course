@@ -1,0 +1,28 @@
+Variables
+	Las variables es una forma que usamos los programadores para almacenar o registrar datos mediante un nombre descriptivo, dicho nombre podra ser utilizado mas adelante en el codigo y asi nos facilita el trabajo. 
+
+	Hay varios tipos de variables: 
+		*Numericas: Basicamente numeros enteros y decimales. 
+
+		*String: Cadenas de texto. 
+
+		*Booleanos: variable logica: 
+	T		RUE Y FALSE. 
+
+Strings: 
+
+	Es un tipo de dato que almacena cadena de texto encerrados entre comillas simples o comillas dobles. Pueden contener letras, numeros, simbolos etc...
+
+
+
+Funciones (argumentos, return)
+	Es un conjunto de instrucciones que realiza una tarea especifica y que se puede reutilizar a volunatad. Es una manera eficaz de simplificar codigo. 
+
+
+Declaraciones if
+	Es una condicional para tomar decisiones. Primero se evalua la expresion, si da como resultado positivo se realiza un procedimiento, de lo contrario se realiza otro procedimiento. 
+
+
+Valores booleanos (true, false)
+
+	Es un tipo de dato, true o false. Se usa para obtener el valor de una variable, objeto, condiciones, expresion o en statement. 
