@@ -1,0 +1,22 @@
+**Ciclo For**:
+
+EL ciclo o bucle FOR sirve para realizar repeticiones de intrucciones. 
+
+Esta compuesto de la siguiente manera: 
+	for(inicializacion, Condicion, actualizacion).
+Inicializacion: Se ejecuta solamente al comenzar la primera iteracion, normalmente se usa de contador. 
+
+Condicion: Es lo que se evalua cada vez que comienza una iteracion del bucle. 
+
+Actualizacion: Son los cambios que queremos que se hagan en las variables en cada iteracion. 
+
+
+**Operadores &&, ||, !**:
+
+Estos simbolos son operadores logicos de conjuncion. Estos realizan una comparacion en los operandos exepto el operador NOT(!).
+
+&&: Es el AND logico. Evalua los operarios de izquierda a derecha y se devuelve en el primer valor false que se encuentra. 
+
+||: Es el OR logico. Disyuncion logica. Los operandos son verdadero si uno de ellos es verdadero. 
+
+!: Se utiliza para devolver el valor contrario del booleano. Este no realiza ninguna comparacion.  
